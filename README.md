@@ -4,6 +4,8 @@
 This repository contains automated UI tests for the RocketPlay web application using Playwright.  
 The tests cover user registration, profile management, and logout functionality.
 
+Due to lack of time not all the steps were automated. The steps that remain non-automated have been written as comments to preserve and display the possible structure.
+
 
 ## Setup & Installation
 ### Prerequisites
